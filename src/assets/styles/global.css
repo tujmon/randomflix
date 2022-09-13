@@ -1,0 +1,21 @@
+:root {
+  --primary: #0A0F1C;
+  --secondary: #000E30;
+  --pink: #DE2863;
+  --purple-light: #A190ED;
+  --purple-dark: #7056E3;
+  --white: #f9f9f9;
+}
+* {
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Poppins, sans-serif;
+  font-size: 16px;
+}
+button {
+  cursor: pointer;
+}
+body {
+  background-color: var(--secondary);
+}
